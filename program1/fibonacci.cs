@@ -6,7 +6,7 @@ namespace program1
 {
     class fibonacci
     {
-        public static void Fib()
+        public static void Fi()
         {
             int n1 = 0, n2 = 1, n3, i;
             Console.Write("Enter the number:");

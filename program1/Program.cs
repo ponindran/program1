@@ -23,6 +23,8 @@ namespace program1
 
             arm.armstrong();*/
 
+            duplicate.Duplicate();
+
         }
     }
 }
