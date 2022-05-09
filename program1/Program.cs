@@ -6,7 +6,7 @@ namespace program1
     {
         static void Main(string[] args)
         {
-            /*natutal.Natutal();
+            natutal.Natutal();
 
             oddnatural.odd();
 
@@ -21,7 +21,7 @@ namespace program1
 
             fibonacci.Fib();
 
-            arm.armstrong();*/
+            arm.armstrong();
 
             duplicate.Duplicate();
 
